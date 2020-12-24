@@ -8,5 +8,6 @@ namespace HelloUser
 {
     class MyClass
     {
+        Console.WriteLine("testing");
     }
 }
